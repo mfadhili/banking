@@ -23,5 +23,5 @@ _[main a301af2] Implement initial file and folder structure_
 # 3 homepage
 - class name home
 - create Header box
-- Pass Props and build component
-- 
+- Pass Props and build component (_[main 0c3d7ca] Implement the header box_)
+- Balance box
