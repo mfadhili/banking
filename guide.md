@@ -17,5 +17,11 @@
 - App page
 - special layout sidebar
 - Auth page/folder creation - SignIn, SignUp
-- 
+
+_[main a301af2] Implement initial file and folder structure_
+
+# 3 homepage
+- class name home
+- create Header box
+- Pass Props and build component
 - 
